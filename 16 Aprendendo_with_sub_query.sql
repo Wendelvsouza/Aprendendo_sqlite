@@ -59,3 +59,4 @@ from tb_receita_estado_produto as t1
 
 inner join tb_best_categoria as t2
 on t1.product_category_name = t2.product_category_name
+
